@@ -24,9 +24,9 @@ require (
 	github.com/snapcore/bolt v1.3.2-0.20210908134111-63c8bfcf7af8
 	github.com/snapcore/go-gettext v0.0.0-20191107141714-82bbea49e785
 	github.com/snapcore/secboot v0.0.0-20230119174011-57239c9f324a
-	golang.org/x/crypto v0.0.0-20220829220503-c86fa9a7ed90
-	golang.org/x/net v0.7.0 // indirect
-	golang.org/x/sys v0.5.0
+	golang.org/x/crypto v0.14.0
+	golang.org/x/net v0.17.0 // indirect
+	golang.org/x/sys v0.13.0
 	golang.org/x/xerrors v0.0.0-20220609144429-65e65417b02f
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
 	gopkg.in/macaroon.v1 v1.0.0-20150121114231-ab3940c6c165
